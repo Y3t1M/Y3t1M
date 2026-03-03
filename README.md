@@ -21,9 +21,7 @@
 
 <br/>
 
-```
-─────────────────────────────────────────── languages & tools ───
-```
+<p align="center"><strong>languages &amp; tools</strong></p>
 
 <div align="center">
 
