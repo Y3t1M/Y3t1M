@@ -59,6 +59,7 @@
 | ◈ | [**PixOS**](https://github.com/Y3t1M/PixOS) | `JS` | Pixel art editor · GIF export · onion skinning · undo/redo |
 | ◈ | [**avr-drone**](https://y3t1m.github.io/projects.html) | `C++` | Autonomous A\* pathfinding drone · 8th place nationally |
 | ◈ | [**Y3t1M.github.io**](https://github.com/Y3t1M/Y3t1M.github.io) | `JS` | Personal site · dark UI · hidden retro easter eggs |
+| ··· | *more in progress* | — | always building — check back soon |
 
 </div>
 
