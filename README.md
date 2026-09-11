@@ -9,11 +9,13 @@
    ╚═╝   ╚══════╝   ╚═╝   ╚═╝
 ```
 
+**Hudson Tinch** &nbsp;·&nbsp; finance &amp; entrepreneurship, University of Arkansas &nbsp;·&nbsp; developer since 2019
+
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/portfolio-y3t1m.github.io-111111?style=flat-square&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMSAyMHYtNkg5bDMtOCAzIDhoLTJ2NmgtMnoiLz48L3N2Zz4=)](https://y3t1m.github.io)
+[![Portfolio](https://img.shields.io/badge/portfolio-hudsontinch.com-111111?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjE0IDE0IDkyIDkyIiBmaWxsPSIjZmZmZmZmIj48cmVjdCB4PSIyMCIgeT0iMjQiIHdpZHRoPSIxMSIgaGVpZ2h0PSI3MiIvPjxyZWN0IHg9IjM4IiB5PSIyNCIgd2lkdGg9IjExIiBoZWlnaHQ9IjcyIi8%2BPHJlY3QgeD0iNTQuNSIgeT0iMjQiIHdpZHRoPSIxMSIgaGVpZ2h0PSI3MiIvPjxyZWN0IHg9IjcxIiB5PSIyNCIgd2lkdGg9IjExIiBoZWlnaHQ9IjcyIi8%2BPHJlY3QgeD0iODkiIHk9IjI0IiB3aWR0aD0iMTEiIGhlaWdodD0iNzIiLz48cmVjdCB4PSIyMCIgeT0iNTQuNSIgd2lkdGg9IjI5IiBoZWlnaHQ9IjExIi8%2BPHJlY3QgeD0iNzEiIHk9IjU0LjUiIHdpZHRoPSIyOSIgaGVpZ2h0PSIxMSIvPjxyZWN0IHg9IjQ0IiB5PSIyNCIgd2lkdGg9IjMyIiBoZWlnaHQ9IjExIi8%2BPC9zdmc%2B&logoColor=white)](https://hudsontinch.com)
 &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/linkedin-hudsontinch-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hudsontinch)
+[![LinkedIn](https://img.shields.io/badge/linkedin-hudsontinch-111111?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjYgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNnpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&logoColor=white)](https://linkedin.com/in/hudsontinch)
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/email-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:hudson.tinch@gmail.com)
 
@@ -25,13 +27,17 @@
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-111111?style=flat-square&logo=cloudflare&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-111111?style=flat-square&logo=arduino&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-111111?style=flat-square&logo=kicad&logoColor=white)
 
 </div>
 
@@ -51,17 +57,27 @@
 
 <div align="center">
 
-| &nbsp; | repo | lang | about |
+| &nbsp; | project | lang | what it is |
 |:--:|------|:----:|-------|
-| ◈ | [**arduino-r4-controller**](https://github.com/Y3t1M/Arduino-R4-Controller-Web-Interface) | `C++` | WiFi servo + electromagnet control via browser — no app needed |
-| ◈ | [**PixOS**](https://github.com/Y3t1M/PixOS) | `JS` | Pixel art editor · GIF export · onion skinning · undo/redo |
-| ◈ | [**avr-drone**](https://y3t1m.github.io/projects.html) | `C++` | Autonomous A\* pathfinding drone · 8th place nationally |
-| ◈ | [**Y3t1M.github.io**](https://github.com/Y3t1M/Y3t1M.github.io) | `JS` | Personal site · dark UI · hidden retro easter eggs |
-| ··· | *more in progress* | — | always building — check back soon |
+| ◈ | [**Members Moments**](https://membersmoments.hudsontinch.com) | `JS` | Shoppable creator video for McMillon Innovation Studio's Sam's Club challenge · Demo Day, Spring 2026 |
+| ◈ | [**NeatFreak**](https://hudsontinch.com/demos/neatfreak) | `Python` | A photo of a tool becomes a 3D-printable drawer organizer, extracted in the browser |
+| ◈ | [**PixOS**](https://hudsontinch.com/PixOS/PixOS) | `JS` | Pixel art editor · GIF export · onion skinning · undo/redo |
+| ◈ | [**AVR Drone**](https://hudsontinch.com/projects) | `C++` | Autonomous A\* pathfinding drone · 4th at Bell AVR nationals, 2nd in presentation |
+| ◈ | [**Arduino R4 Controller**](https://hudsontinch.com/projects) | `C++` | WiFi servo and electromagnet control from any browser, no app needed |
+| ◈ | [**hudsontinch.com**](https://hudsontinch.com) | `JS` | This portfolio: a WebGL sand shader, and a Windows 95 desktop hidden inside |
+
+</div>
+
+```
+───────────────────────────────────────────────────── source ────
+```
+
+<div align="center">
+
+[**PixOS**](https://github.com/Y3t1M/PixOS) &nbsp;·&nbsp; [**Arduino R4 Controller**](https://github.com/Y3t1M/Arduino-R4-Controller-Web-Interface) &nbsp;·&nbsp; [**hudsontinch.com**](https://github.com/Y3t1M/Y3t1M.github.io)
 
 </div>
 
 <br/>
 
 <!-- ↑↑↓↓←→←→BA -->
-
